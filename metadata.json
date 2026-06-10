@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio",
+  "description": "A clean, modern, and interactive single-page portfolio designed for front-end, back-end, and infrastructure engineers, as well as tech leads and managers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
